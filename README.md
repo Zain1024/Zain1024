@@ -1,7 +1,7 @@
 
 # 🌃 My GitHub Contribution City
 
-Welcome to my GitHub — here's my contribution city!
+Welcome
 
 <p align="center">
   <img
@@ -12,5 +12,3 @@ Welcome to my GitHub — here's my contribution city!
 </p>
 
 ---
-
-*Building, learning, and growing one commit at a time.* 🚀
