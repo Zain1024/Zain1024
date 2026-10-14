@@ -1,0 +1,3339 @@
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1200 800"
+>
+    <defs>
+        <linearGradient id="nightSky" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#050810" />
+            <stop offset="100%" stop-color="#0a1226" />
+        </linearGradient>
+    </defs>
+    <rect
+        width="100%"
+        height="100%"
+        fill="url(#nightSky)"
+    />
+
+    <g transform="translate(140, 100)">
+        
+        
+        
+            <g>
+                
+        <polygon points="-16,6 0,14 0,16 -16,8" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,14 16,6 16,8 0,16" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,-2 16,6 0,14 -16,6" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-36,16 -20,24 -20,26 -36,18" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,24 -3.999999999999999,16 -3.999999999999999,18 -20,26" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,8 -3.999999999999999,16 -20,24 -36,16" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="3.999999999999999,16 20,24 20,26 3.999999999999999,18" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,24 36,16 36,18 20,26" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,8 36,16 20,24 3.999999999999999,16" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-56,26 -39.99999999999999,34 -39.99999999999999,36 -56,28" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-39.99999999999999,34 -24,26 -24,28 -39.99999999999999,36" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,18 -24,26 -39.99999999999999,34 -56,26" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-16,26 0,34 0,36 -16,28" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,34 16,26 16,28 0,36" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,18 16,26 0,34 -16,26" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="24,19.5 39.99999999999999,27.5 39.99999999999999,36 24,28" fill="#1c2130" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="39.99999999999999,27.5 56,19.5 56,28 39.99999999999999,36" fill="#121521" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,11.5 56,19.5 39.99999999999999,27.5 24,19.5" fill="#272d42" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="43,32.5 46.99999999999999,30.5 46.99999999999999,28.7 43,30.7" fill="#f7d959" opacity="0.5317386416706541"><animate attributeName="opacity" values="0.5317386416706541;1;0.26586932083532705;0.5317386416706541" dur="4.1889065333623945s" repeatCount="indefinite"/></polygon><polygon points="32.99999999999999,30.5 37,32.5 37,30.7 32.99999999999999,28.7" fill="#f7d959" opacity="0.6209516883683618"><animate attributeName="opacity" values="0.6209516883683618;1;0.3104758441841809;0.6209516883683618" dur="3.423052069059424s" repeatCount="indefinite"/></polygon><polygon points="26.999999999999996,24.5 31,26.500000000000004 31,24.700000000000003 26.999999999999996,22.7" fill="#f7d959" opacity="0.7920393366809985"><animate attributeName="opacity" values="0.7920393366809985;1;0.39601966834049923;0.7920393366809985" dur="5.101579025544641s" repeatCount="indefinite"/></polygon><polygon points="43,29.5 46.99999999999999,27.5 46.99999999999999,25.7 43,27.7" fill="#f7d959" opacity="0.7920393366809985"><animate attributeName="opacity" values="0.7920393366809985;1;0.39601966834049923;0.7920393366809985" dur="5.101579025544641s" repeatCount="indefinite"/></polygon><polygon points="32.99999999999999,27.5 37,29.5 37,27.7 32.99999999999999,25.7" fill="#f7d959" opacity="0.9050914620209097"><animate attributeName="opacity" values="0.9050914620209097;1;0.45254573101045487;0.9050914620209097" dur="2.7805154621452806s" repeatCount="indefinite"/></polygon><polygon points="48.99999999999999,26.5 53,24.499999999999996 53,22.699999999999996 48.99999999999999,24.7" fill="#f7d959" opacity="0.9050914620209097"><animate attributeName="opacity" values="0.9050914620209097;1;0.45254573101045487;0.9050914620209097" dur="2.7805154621452806s" repeatCount="indefinite"/></polygon>
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-76,36 -60,44 -60,46 -76,38" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,44 -44,36 -44,38 -60,46" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,28 -44,36 -60,44 -76,36" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-36,31 -19.999999999999996,39 -19.999999999999996,46 -36,38" fill="#1c2130" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-19.999999999999996,39 -3.999999999999999,31 -3.999999999999999,38 -19.999999999999996,46" fill="#121521" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,23 -3.999999999999999,31 -19.999999999999996,39 -36,31" fill="#272d42" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-33,37.5 -29,39.49999999999999 -29,37.699999999999996 -33,35.7" fill="#f7d959" opacity="0.9904932370042109"><animate attributeName="opacity" values="0.9904932370042109;1;0.49524661850210544;0.9904932370042109" dur="5.721532976624687s" repeatCount="indefinite"/></polygon><polygon points="-16.999999999999996,42.5 -12.999999999999993,40.5 -12.999999999999993,38.7 -16.999999999999996,40.7" fill="#f7d959" opacity="0.9904932370042109"><animate attributeName="opacity" values="0.9904932370042109;1;0.49524661850210544;0.9904932370042109" dur="5.721532976624687s" repeatCount="indefinite"/></polygon><polygon points="-26.999999999999996,40.5 -23,42.49999999999999 -23,40.699999999999996 -26.999999999999996,38.7" fill="#f7d959" opacity="0.7089523365789976"><animate attributeName="opacity" values="0.7089523365789976;1;0.3544761682894988;0.7089523365789976" dur="5.477572803497611s" repeatCount="indefinite"/></polygon>
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="3.999999999999999,36 19.999999999999996,44 19.999999999999996,46 3.999999999999999,38" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="19.999999999999996,44 36,36 36,38 19.999999999999996,46" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,28 36,36 19.999999999999996,44 3.999999999999999,36" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="44,36 60,44 60,46 44,38" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,44 76,36 76,38 60,46" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,28 76,36 60,44 44,36" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-96,46 -80,54 -80,56 -96,48" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-80,54 -64,46 -64,48 -80,56" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-80,38 -64,46 -80,54 -96,46" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-56,46 -39.99999999999999,54 -39.99999999999999,56 -56,48" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-39.99999999999999,54 -24,46 -24,48 -39.99999999999999,56" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,38 -24,46 -39.99999999999999,54 -56,46" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-15.999999999999996,46 0,54 0,56 -15.999999999999996,48" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,54 15.999999999999996,46 15.999999999999996,48 0,56" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,38 15.999999999999996,46 0,54 -15.999999999999996,46" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="24,46 39.99999999999999,54 39.99999999999999,56 24,48" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="39.99999999999999,54 56,46 56,48 39.99999999999999,56" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,38 56,46 39.99999999999999,54 24,46" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="64,46 80,54 80,56 64,48" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,54 96,46 96,48 80,56" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,38 96,46 80,54 64,46" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-116,56 -100,64 -100,66 -116,58" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-100,64 -84,56 -84,58 -100,66" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-100,48 -84,56 -100,64 -116,56" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-76,56 -60,64 -60,66 -76,58" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,64 -44,56 -44,58 -60,66" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,48 -44,56 -60,64 -76,56" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-36,56 -20,64 -20,66 -36,58" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,64 -4.0000000000000036,56 -4.0000000000000036,58 -20,66" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,48 -4.0000000000000036,56 -20,64 -36,56" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="4.0000000000000036,56 20,64 20,66 4.0000000000000036,58" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,64 36,56 36,58 20,66" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,48 36,56 20,64 4.0000000000000036,56" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="44,56 60,64 60,66 44,58" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,64 76,56 76,58 60,66" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,48 76,56 60,64 44,56" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="84,56 100,64 100,66 84,58" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,64 116,56 116,58 100,66" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,48 116,56 100,64 84,56" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-136,66 -120,74 -120,76 -136,68" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-120,74 -104,66 -104,68 -120,76" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-120,58 -104,66 -120,74 -136,66" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-96,66 -80,74 -80,76 -96,68" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-80,74 -64,66 -64,68 -80,76" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-80,58 -64,66 -80,74 -96,66" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-56,66 -40,74 -40,76 -56,68" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,74 -24.000000000000004,66 -24.000000000000004,68 -40,76" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,58 -24.000000000000004,66 -40,74 -56,66" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-15.999999999999996,66 0,74 0,76 -15.999999999999996,68" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,74 15.999999999999996,66 15.999999999999996,68 0,76" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,58 15.999999999999996,66 0,74 -15.999999999999996,66" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="24.000000000000004,66 40,74 40,76 24.000000000000004,68" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,74 56,66 56,68 40,76" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,58 56,66 40,74 24.000000000000004,66" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="64,66 80,74 80,76 64,68" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,74 96,66 96,68 80,76" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,58 96,66 80,74 64,66" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="104,66 120,74 120,76 104,68" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,74 136,66 136,68 120,76" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,58 136,66 120,74 104,66" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-116,66.5 -100,74.5 -100,86 -116,78" fill="#242a3e" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-100,74.5 -84,66.5 -84,78 -100,86" fill="#171b2b" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-100,58.5 -84,66.5 -100,74.5 -116,66.5" fill="#323a54" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-113,77.5 -109,79.5 -109,77.7 -113,75.7" fill="#42f5e8" opacity="0.9730145935738312"><animate attributeName="opacity" values="0.9730145935738312;1;0.4865072967869156;0.9730145935738312" dur="5.905754447478535s" repeatCount="indefinite"/></polygon><polygon points="-97,82.5 -92.99999999999999,80.5 -92.99999999999999,78.7 -97,80.7" fill="#42f5e8" opacity="0.9730145935738312"><animate attributeName="opacity" values="0.9730145935738312;1;0.4865072967869156;0.9730145935738312" dur="5.905754447478535s" repeatCount="indefinite"/></polygon><polygon points="-107,80.5 -103,82.5 -103,80.7 -107,78.7" fill="#42f5e8" opacity="0.6106725478514808"><animate attributeName="opacity" values="0.6106725478514808;1;0.3053362739257404;0.6106725478514808" dur="5.796436352802553s" repeatCount="indefinite"/></polygon><polygon points="-91,79.5 -87,77.5 -87,75.7 -91,77.7" fill="#42f5e8" opacity="0.6106725478514808"><animate attributeName="opacity" values="0.6106725478514808;1;0.3053362739257404;0.6106725478514808" dur="5.796436352802553s" repeatCount="indefinite"/></polygon><polygon points="-113,74.5 -109,76.5 -109,74.7 -113,72.7" fill="#42f5e8" opacity="0.5854279099464011"><animate attributeName="opacity" values="0.5854279099464011;1;0.2927139549732006;0.5854279099464011" dur="4.63322654023723s" repeatCount="indefinite"/></polygon><polygon points="-97,79.5 -92.99999999999999,77.5 -92.99999999999999,75.7 -97,77.7" fill="#42f5e8" opacity="0.5854279099464011"><animate attributeName="opacity" values="0.5854279099464011;1;0.2927139549732006;0.5854279099464011" dur="4.63322654023723s" repeatCount="indefinite"/></polygon><polygon points="-107,77.5 -103,79.5 -103,77.7 -107,75.7" fill="#42f5e8" opacity="0.879597808635792"><animate attributeName="opacity" values="0.879597808635792;1;0.439798904317896;0.879597808635792" dur="5.783697276706184s" repeatCount="indefinite"/></polygon><polygon points="-97,76.5 -92.99999999999999,74.5 -92.99999999999999,72.7 -97,74.7" fill="#42f5e8" opacity="0.9449246663923118"><animate attributeName="opacity" values="0.9449246663923118;1;0.4724623331961559;0.9449246663923118" dur="3.308313543232029s" repeatCount="indefinite"/></polygon><polygon points="-107,74.5 -103,76.5 -103,74.7 -107,72.7" fill="#42f5e8" opacity="0.836425793221"><animate attributeName="opacity" values="0.836425793221;1;0.4182128966105;0.836425793221" dur="3.6825202298055126s" repeatCount="indefinite"/></polygon><polygon points="-91,73.5 -87,71.5 -87,69.7 -91,71.7" fill="#42f5e8" opacity="0.836425793221"><animate attributeName="opacity" values="0.836425793221;1;0.4182128966105;0.836425793221" dur="3.6825202298055126s" repeatCount="indefinite"/></polygon>
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-76,76 -60,84 -60,86 -76,78" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,84 -44,76 -44,78 -60,86" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,68 -44,76 -60,84 -76,76" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-36,76 -20,84 -20,86 -36,78" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,84 -4.0000000000000036,76 -4.0000000000000036,78 -20,86" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,68 -4.0000000000000036,76 -20,84 -36,76" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="4.0000000000000036,76 20,84 20,86 4.0000000000000036,78" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,84 36,76 36,78 20,86" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,68 36,76 20,84 4.0000000000000036,76" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="44,76 60,84 60,86 44,78" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,84 76,76 76,78 60,86" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,68 76,76 60,84 44,76" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="84,76 100,84 100,86 84,78" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,84 116,76 116,78 100,86" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,68 116,76 100,84 84,76" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="124,76 140,84 140,86 124,78" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,84 156,76 156,78 140,86" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,68 156,76 140,84 124,76" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-96,86 -80,94 -80,96 -96,88" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-80,94 -64,86 -64,88 -80,96" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-80,78 -64,86 -80,94 -96,86" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-56,86 -40,94 -40,96 -56,88" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,94 -24.000000000000004,86 -24.000000000000004,88 -40,96" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,78 -24.000000000000004,86 -40,94 -56,86" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-15.999999999999996,86 0,94 0,96 -15.999999999999996,88" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,94 15.999999999999996,86 15.999999999999996,88 0,96" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,78 15.999999999999996,86 0,94 -15.999999999999996,86" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="24.000000000000004,86 40,94 40,96 24.000000000000004,88" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,94 56,86 56,88 40,96" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,78 56,86 40,94 24.000000000000004,86" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="64,86 80,94 80,96 64,88" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,94 96,86 96,88 80,96" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,78 96,86 80,94 64,86" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="104,86 120,94 120,96 104,88" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,94 136,86 136,88 120,96" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,78 136,86 120,94 104,86" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="144,86 160,94.00000000000001 160,96.00000000000001 144,88" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,94.00000000000001 176,86 176,88 160,96.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,78 176,86 160,94.00000000000001 144,86" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-76,96 -60,104 -60,106 -76,98" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,104 -44,96 -44,98 -60,106" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-60,88 -44,96 -60,104 -76,96" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-36,96 -20,104 -20,106 -36,98" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,104 -4.0000000000000036,96 -4.0000000000000036,98 -20,106" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,88 -4.0000000000000036,96 -20,104 -36,96" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="4.0000000000000036,96 20,104 20,106 4.0000000000000036,98" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,104 36,96 36,98 20,106" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,88 36,96 20,104 4.0000000000000036,96" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="44,96 60,104 60,106 44,98" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,104 76,96 76,98 60,106" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,88 76,96 60,104 44,96" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="84,96 100,104 100,106 84,98" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,104 116,96 116,98 100,106" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,88 116,96 100,104 84,96" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="124,96 140.00000000000003,104.00000000000001 140.00000000000003,106.00000000000001 124,98" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140.00000000000003,104.00000000000001 156,96 156,98 140.00000000000003,106.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,88 156,96 140.00000000000003,104.00000000000001 124,96" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="164,96 180,104.00000000000001 180,106.00000000000001 164,98" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,104.00000000000001 196,96 196,98 180,106.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,88 196,96 180,104.00000000000001 164,96" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-56,106 -40,114 -40,116 -56,108" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,114 -24.000000000000004,106 -24.000000000000004,108 -40,116" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-40,98 -24.000000000000004,106 -40,114 -56,106" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-15.999999999999996,106 0,114 0,116 -15.999999999999996,108" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,114 15.999999999999996,106 15.999999999999996,108 0,116" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,98 15.999999999999996,106 0,114 -15.999999999999996,106" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="24.000000000000004,106 40,114 40,116 24.000000000000004,108" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,114 56,106 56,108 40,116" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,98 56,106 40,114 24.000000000000004,106" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="64,106 80,114 80,116 64,108" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,114 96,106 96,108 80,116" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,98 96,106 80,114 64,106" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="104,106 120.00000000000001,114.00000000000001 120.00000000000001,116.00000000000001 104,108" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120.00000000000001,114.00000000000001 136,106 136,108 120.00000000000001,116.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,98 136,106 120.00000000000001,114.00000000000001 104,106" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="144,106 160,114.00000000000001 160,116.00000000000001 144,108" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,114.00000000000001 176,106 176,108 160,116.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,98 176,106 160,114.00000000000001 144,106" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="184,106 200,114.00000000000001 200,116.00000000000001 184,108" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,114.00000000000001 216,106 216,108 200,116.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,98 216,106 200,114.00000000000001 184,106" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-36,116 -20,124 -20,126 -36,118" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,124 -4.0000000000000036,116 -4.0000000000000036,118 -20,126" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="-20,108 -4.0000000000000036,116 -20,124 -36,116" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="4.0000000000000036,116 20,124 20,126 4.0000000000000036,118" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,124 36,116 36,118 20,126" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,108 36,116 20,124 4.0000000000000036,116" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="44,116 60,124 60,126 44,118" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,124 76,116 76,118 60,126" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,108 76,116 60,124 44,116" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="84,116 100.00000000000001,124.00000000000001 100.00000000000001,126.00000000000001 84,118" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100.00000000000001,124.00000000000001 116.00000000000001,116 116.00000000000001,118 100.00000000000001,126.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,108 116.00000000000001,116 100.00000000000001,124.00000000000001 84,116" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="124,116 140.00000000000003,124.00000000000001 140.00000000000003,126.00000000000001 124,118" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140.00000000000003,124.00000000000001 156,116 156,118 140.00000000000003,126.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,108 156,116 140.00000000000003,124.00000000000001 124,116" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="164,116 180,124.00000000000001 180,126.00000000000001 164,118" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,124.00000000000001 196,116 196,118 180,126.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,108 196,116 180,124.00000000000001 164,116" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="204,116 220,124.00000000000001 220,126.00000000000001 204,118" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,124.00000000000001 236,116 236,118 220,126.00000000000001" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,108 236,116 220,124.00000000000001 204,116" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="-15.999999999999996,126 0,134 0,136 -15.999999999999996,128" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,134 15.999999999999996,126 15.999999999999996,128 0,136" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="0,118 15.999999999999996,126 0,134 -15.999999999999996,126" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="24.000000000000004,126 40,134 40,136 24.000000000000004,128" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,134 56,126 56,128 40,136" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,118 56,126 40,134 24.000000000000004,126" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="64,126 80.00000000000001,134 80.00000000000001,136 64,128" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80.00000000000001,134 96.00000000000001,126 96.00000000000001,128 80.00000000000001,136" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,118 96.00000000000001,126 80.00000000000001,134 64,126" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="104,126 120.00000000000001,134 120.00000000000001,136 104,128" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120.00000000000001,134 136,126 136,128 120.00000000000001,136" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,118 136,126 120.00000000000001,134 104,126" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="144,126 160,134 160,136 144,128" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,134 176,126 176,128 160,136" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,118 176,126 160,134 144,126" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="184,126 200,134 200,136 184,128" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,134 216,126 216,128 200,136" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,118 216,126 200,134 184,126" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="224,126 240,134 240,136 224,128" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,134 256,126 256,128 240,136" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,118 256,126 240,134 224,126" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="4.0000000000000036,136 20,144 20,146 4.0000000000000036,138" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,144 36,136 36,138 20,146" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="20,128 36,136 20,144 4.0000000000000036,136" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="44,136 60.000000000000014,144 60.000000000000014,146 44,138" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60.000000000000014,144 76.00000000000001,136 76.00000000000001,138 60.000000000000014,146" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,128 76.00000000000001,136 60.000000000000014,144 44,136" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="84,136 100.00000000000001,144 100.00000000000001,146 84,138" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100.00000000000001,144 116.00000000000001,136 116.00000000000001,138 100.00000000000001,146" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,128 116.00000000000001,136 100.00000000000001,144 84,136" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="124,136 140.00000000000003,144 140.00000000000003,146 124,138" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140.00000000000003,144 156,136 156,138 140.00000000000003,146" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,128 156,136 140.00000000000003,144 124,136" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="164,136 180,144 180,146 164,138" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,144 196,136 196,138 180,146" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,128 196,136 180,144 164,136" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="204,136 220,144 220,146 204,138" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,144 236,136 236,138 220,146" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,128 236,136 220,144 204,136" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="244,136 260,144 260,146 244,138" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,144 276,136 276,138 260,146" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,128 276,136 260,144 244,136" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="24.000000000000004,146 40.000000000000014,154 40.000000000000014,156 24.000000000000004,148" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40.000000000000014,154 56.000000000000014,146 56.000000000000014,148 40.000000000000014,156" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="40,138 56.000000000000014,146 40.000000000000014,154 24.000000000000004,146" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="64,146 80.00000000000001,154 80.00000000000001,156 64,148" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80.00000000000001,154 96.00000000000001,146 96.00000000000001,148 80.00000000000001,156" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,138 96.00000000000001,146 80.00000000000001,154 64,146" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="104,146 120.00000000000001,154 120.00000000000001,156 104,148" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120.00000000000001,154 136,146 136,148 120.00000000000001,156" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,138 136,146 120.00000000000001,154 104,146" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="144,146 160,154 160,156 144,148" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,154 176,146 176,148 160,156" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,138 176,146 160,154 144,146" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="184,146 200,154 200,156 184,148" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,154 216,146 216,148 200,156" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,138 216,146 200,154 184,146" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="224,146 240,154 240,156 224,148" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,154 256,146 256,148 240,156" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,138 256,146 240,154 224,146" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="264,146 280,154 280,156 264,148" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,154 296,146 296,148 280,156" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,138 296,146 280,154 264,146" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="44,156 60.000000000000014,164 60.000000000000014,166 44,158" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60.000000000000014,164 76.00000000000001,156 76.00000000000001,158 60.000000000000014,166" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="60,148 76.00000000000001,156 60.000000000000014,164 44,156" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="84,156 100.00000000000001,164 100.00000000000001,166 84,158" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100.00000000000001,164 116.00000000000001,156 116.00000000000001,158 100.00000000000001,166" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,148 116.00000000000001,156 100.00000000000001,164 84,156" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="124,156 140.00000000000003,164 140.00000000000003,166 124,158" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140.00000000000003,164 156,156 156,158 140.00000000000003,166" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,148 156,156 140.00000000000003,164 124,156" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="164,156 180,164 180,166 164,158" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,164 196,156 196,158 180,166" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,148 196,156 180,164 164,156" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="204,156 220,164 220,166 204,158" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,164 236,156 236,158 220,166" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,148 236,156 220,164 204,156" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="244,156 260,164 260,166 244,158" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,164 276,156 276,158 260,166" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,148 276,156 260,164 244,156" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="284,156 300,164 300,166 284,158" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,164 316,156 316,158 300,166" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,148 316,156 300,164 284,156" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="64,166 80.00000000000001,174 80.00000000000001,176 64,168" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80.00000000000001,174 96.00000000000001,166 96.00000000000001,168 80.00000000000001,176" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="80,158 96.00000000000001,166 80.00000000000001,174 64,166" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="104,166 120.00000000000001,174 120.00000000000001,176 104,168" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120.00000000000001,174 136,166 136,168 120.00000000000001,176" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,158 136,166 120.00000000000001,174 104,166" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="144,166 160,174 160,176 144,168" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,174 176,166 176,168 160,176" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,158 176,166 160,174 144,166" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="184,166 200,174 200,176 184,168" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,174 216,166 216,168 200,176" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,158 216,166 200,174 184,166" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="224,166 240,174 240,176 224,168" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,174 256,166 256,168 240,176" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,158 256,166 240,174 224,166" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="264,166 280,174 280,176 264,168" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,174 296,166 296,168 280,176" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,158 296,166 280,174 264,166" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="304,166 320,174 320,176 304,168" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,174 336,166 336,168 320,176" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,158 336,166 320,174 304,166" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="84,176 100.00000000000001,184 100.00000000000001,186 84,178" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100.00000000000001,184 116.00000000000001,176 116.00000000000001,178 100.00000000000001,186" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="100,168 116.00000000000001,176 100.00000000000001,184 84,176" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="124,176 140.00000000000003,184 140.00000000000003,186 124,178" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140.00000000000003,184 156,176 156,178 140.00000000000003,186" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,168 156,176 140.00000000000003,184 124,176" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="164,176 180,184 180,186 164,178" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,184 196,176 196,178 180,186" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,168 196,176 180,184 164,176" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="204,176 220,184 220,186 204,178" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,184 236,176 236,178 220,186" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,168 236,176 220,184 204,176" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="244,176 260,184 260,186 244,178" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,184 276,176 276,178 260,186" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,168 276,176 260,184 244,176" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="284,176 300,184 300,186 284,178" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,184 316,176 316,178 300,186" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,168 316,176 300,184 284,176" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="324,176 340,184 340,186 324,178" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,184 356,176 356,178 340,186" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,168 356,176 340,184 324,176" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="104,186 120.00000000000001,194 120.00000000000001,196 104,188" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120.00000000000001,194 136,186 136,188 120.00000000000001,196" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="120,178 136,186 120.00000000000001,194 104,186" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="144,186 160,194 160,196 144,188" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,194 176,186 176,188 160,196" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,178 176,186 160,194 144,186" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="184,186 200,194 200,196 184,188" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,194 216,186 216,188 200,196" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,178 216,186 200,194 184,186" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="224,186 240,194 240,196 224,188" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,194 256,186 256,188 240,196" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,178 256,186 240,194 224,186" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="264,186 280,194 280,196 264,188" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,194 296,186 296,188 280,196" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,178 296,186 280,194 264,186" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="304,186 320,194 320,196 304,188" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,194 336,186 336,188 320,196" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,178 336,186 320,194 304,186" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="344,186 360,194 360,196 344,188" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,194 376,186 376,188 360,196" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,178 376,186 360,194 344,186" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="124,196 140.00000000000003,204 140.00000000000003,206 124,198" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140.00000000000003,204 156,196 156,198 140.00000000000003,206" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="140,188 156,196 140.00000000000003,204 124,196" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="164,196 180,204 180,206 164,198" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,204 196,196 196,198 180,206" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,188 196,196 180,204 164,196" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="204,196 220,204 220,206 204,198" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,204 236,196 236,198 220,206" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,188 236,196 220,204 204,196" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="244,196 260,204 260,206 244,198" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,204 276,196 276,198 260,206" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,188 276,196 260,204 244,196" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="284,196 300,204 300,206 284,198" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,204 316,196 316,198 300,206" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,188 316,196 300,204 284,196" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="324,196 340,204 340,206 324,198" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,204 356,196 356,198 340,206" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,188 356,196 340,204 324,196" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="364,196 380,204 380,206 364,198" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,204 396,196 396,198 380,206" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,188 396,196 380,204 364,196" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="144,206 160,214 160,216 144,208" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,214 176,206 176,208 160,216" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="160,198 176,206 160,214 144,206" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="184,206 200,214 200,216 184,208" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,214 216,206 216,208 200,216" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,198 216,206 200,214 184,206" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="224,206 240,214 240,216 224,208" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,214 256,206 256,208 240,216" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,198 256,206 240,214 224,206" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="264,206 280,214 280,216 264,208" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,214 296,206 296,208 280,216" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,198 296,206 280,214 264,206" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="304,206 320,214 320,216 304,208" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,214 336,206 336,208 320,216" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,198 336,206 320,214 304,206" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="344,206 360,214 360,216 344,208" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,214 376,206 376,208 360,216" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,198 376,206 360,214 344,206" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="384,206 400,214 400,216 384,208" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,214 416,206 416,208 400,216" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,198 416,206 400,214 384,206" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="164,216 180,224 180,226 164,218" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,224 196,216 196,218 180,226" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="180,208 196,216 180,224 164,216" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="204,216 220,224 220,226 204,218" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,224 236,216 236,218 220,226" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,208 236,216 220,224 204,216" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="244,216 260,224 260,226 244,218" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,224 276,216 276,218 260,226" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,208 276,216 260,224 244,216" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="284,216 300,224 300,226 284,218" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,224 316,216 316,218 300,226" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,208 316,216 300,224 284,216" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="324,216 340,224 340,226 324,218" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,224 356,216 356,218 340,226" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,208 356,216 340,224 324,216" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="364,216 380,224 380,226 364,218" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,224 396,216 396,218 380,226" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,208 396,216 380,224 364,216" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="404,216 420,224 420,226 404,218" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,224 436,216 436,218 420,226" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,208 436,216 420,224 404,216" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="184,226 200,234 200,236 184,228" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,234 216,226 216,228 200,236" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="200,218 216,226 200,234 184,226" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="224,226 240,234 240,236 224,228" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,234 256,226 256,228 240,236" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,218 256,226 240,234 224,226" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="264,226 280,234 280,236 264,228" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,234 296,226 296,228 280,236" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,218 296,226 280,234 264,226" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="304,226 320,234 320,236 304,228" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,234 336,226 336,228 320,236" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,218 336,226 320,234 304,226" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="344,226 360,234 360,236 344,228" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,234 376,226 376,228 360,236" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,218 376,226 360,234 344,226" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="384,226 400,234 400,236 384,228" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,234 416,226 416,228 400,236" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,218 416,226 400,234 384,226" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="424,226 440,234 440,236 424,228" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,234 456,226 456,228 440,236" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,218 456,226 440,234 424,226" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="204,236 220,244 220,246 204,238" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,244 236,236 236,238 220,246" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="220,228 236,236 220,244 204,236" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="244,236 260,244 260,246 244,238" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,244 276,236 276,238 260,246" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,228 276,236 260,244 244,236" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="284,236 300,244 300,246 284,238" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,244 316,236 316,238 300,246" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,228 316,236 300,244 284,236" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="324,236 340,244 340,246 324,238" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,244 356,236 356,238 340,246" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,228 356,236 340,244 324,236" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="364,236 380,244 380,246 364,238" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,244 396,236 396,238 380,246" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,228 396,236 380,244 364,236" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="404,236 420,244 420,246 404,238" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,244 436,236 436,238 420,246" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,228 436,236 420,244 404,236" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="444,236 460,244 460,246 444,238" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,244 476,236 476,238 460,246" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,228 476,236 460,244 444,236" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="224,246 240,254 240,256 224,248" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,254 256,246 256,248 240,256" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="240,238 256,246 240,254 224,246" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="264,246 280,254 280,256 264,248" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,254 296,246 296,248 280,256" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,238 296,246 280,254 264,246" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="304,246 320,254 320,256 304,248" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,254 336,246 336,248 320,256" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,238 336,246 320,254 304,246" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="344,246 360,254 360,256 344,248" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,254 376,246 376,248 360,256" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,238 376,246 360,254 344,246" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="384,246 400,254 400,256 384,248" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,254 416,246 416,248 400,256" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,238 416,246 400,254 384,246" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="424,246 440,254 440,256 424,248" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,254 456,246 456,248 440,256" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,238 456,246 440,254 424,246" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="464,246 480,254 480,256 464,248" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,254 496,246 496,248 480,256" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,238 496,246 480,254 464,246" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="244,256 260,264 260,266 244,258" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,264 276,256 276,258 260,266" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="260,248 276,256 260,264 244,256" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="284,256 300,264 300,266 284,258" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,264 316,256 316,258 300,266" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,248 316,256 300,264 284,256" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="324,256 340,264 340,266 324,258" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,264 356,256 356,258 340,266" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,248 356,256 340,264 324,256" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="364,256 380,264 380,266 364,258" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,264 396,256 396,258 380,266" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,248 396,256 380,264 364,256" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="404,256 420,264 420,266 404,258" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,264 436,256 436,258 420,266" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,248 436,256 420,264 404,256" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="444,256 460,264 460,266 444,258" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,264 476,256 476,258 460,266" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,248 476,256 460,264 444,256" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="484,256 500,264 500,266 484,258" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,264 516,256 516,258 500,266" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,248 516,256 500,264 484,256" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="264,266 280,274 280,276 264,268" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,274 296,266 296,268 280,276" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="280,258 296,266 280,274 264,266" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="304,266 320,274 320,276 304,268" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,274 336,266 336,268 320,276" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,258 336,266 320,274 304,266" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="344,266 360,274 360,276 344,268" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,274 376,266 376,268 360,276" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,258 376,266 360,274 344,266" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="384,266 400,274 400,276 384,268" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,274 416,266 416,268 400,276" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,258 416,266 400,274 384,266" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="424,266 440,274 440,276 424,268" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,274 456,266 456,268 440,276" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,258 456,266 440,274 424,266" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="464,266 480,274 480,276 464,268" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,274 496,266 496,268 480,276" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,258 496,266 480,274 464,266" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="504,266 520,274 520,276 504,268" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,274 536,266 536,268 520,276" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,258 536,266 520,274 504,266" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="284,276 300,284 300,286 284,278" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,284 316,276 316,278 300,286" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="300,268 316,276 300,284 284,276" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="324,276 340,284 340,286 324,278" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,284 356,276 356,278 340,286" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,268 356,276 340,284 324,276" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="364,276 380,284 380,286 364,278" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,284 396,276 396,278 380,286" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,268 396,276 380,284 364,276" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="404,276 420,284 420,286 404,278" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,284 436,276 436,278 420,286" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,268 436,276 420,284 404,276" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="444,276 460,284 460,286 444,278" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,284 476,276 476,278 460,286" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,268 476,276 460,284 444,276" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="484,276 500,284 500,286 484,278" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,284 516,276 516,278 500,286" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,268 516,276 500,284 484,276" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="524,276 540,284 540,286 524,278" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,284 556,276 556,278 540,286" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,268 556,276 540,284 524,276" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="304,286 320,294 320,296 304,288" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,294 336,286 336,288 320,296" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="320,278 336,286 320,294 304,286" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="344,286 360,294 360,296 344,288" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,294 376,286 376,288 360,296" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,278 376,286 360,294 344,286" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="384,286 400,294 400,296 384,288" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,294 416,286 416,288 400,296" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,278 416,286 400,294 384,286" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="424,286 440,294 440,296 424,288" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,294 456,286 456,288 440,296" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,278 456,286 440,294 424,286" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="464,286 480,294 480,296 464,288" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,294 496,286 496,288 480,296" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,278 496,286 480,294 464,286" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="504,286 520,294 520,296 504,288" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,294 536,286 536,288 520,296" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,278 536,286 520,294 504,286" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="544,286 560,294 560,296 544,288" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,294 576,286 576,288 560,296" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,278 576,286 560,294 544,286" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="324,296 340,304 340,306 324,298" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,304 356,296 356,298 340,306" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="340,288 356,296 340,304 324,296" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="364,296 380,304 380,306 364,298" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,304 396,296 396,298 380,306" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,288 396,296 380,304 364,296" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="404,296 420,304 420,306 404,298" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,304 436,296 436,298 420,306" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,288 436,296 420,304 404,296" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="444,296 460,304 460,306 444,298" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,304 476,296 476,298 460,306" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,288 476,296 460,304 444,296" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="484,296 500,304 500,306 484,298" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,304 516,296 516,298 500,306" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,288 516,296 500,304 484,296" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="524,296 540,304 540,306 524,298" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,304 556,296 556,298 540,306" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,288 556,296 540,304 524,296" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="564,296 580,304 580,306 564,298" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,304 596,296 596,298 580,306" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,288 596,296 580,304 564,296" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="344,306 360,314 360,316 344,308" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,314 376,306 376,308 360,316" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="360,298 376,306 360,314 344,306" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="384,306 400,314 400,316 384,308" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,314 416,306 416,308 400,316" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,298 416,306 400,314 384,306" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="424,306 440,314 440,316 424,308" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,314 456,306 456,308 440,316" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,298 456,306 440,314 424,306" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="464,306 480,314 480,316 464,308" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,314 496,306 496,308 480,316" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,298 496,306 480,314 464,306" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="504,306 520,314 520,316 504,308" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,314 536,306 536,308 520,316" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,298 536,306 520,314 504,306" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="544,306 560,314 560,316 544,308" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,314 576,306 576,308 560,316" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,298 576,306 560,314 544,306" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="584,306 600,314 600,316 584,308" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,314 616,306 616,308 600,316" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,298 616,306 600,314 584,306" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="364,316 380,324 380,326 364,318" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,324 396,316 396,318 380,326" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="380,308 396,316 380,324 364,316" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="404,316 420,324 420,326 404,318" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,324 436,316 436,318 420,326" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,308 436,316 420,324 404,316" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="444,316 460,324 460,326 444,318" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,324 476,316 476,318 460,326" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,308 476,316 460,324 444,316" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="484,316 500,324 500,326 484,318" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,324 516,316 516,318 500,326" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,308 516,316 500,324 484,316" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="524,316 540,324 540,326 524,318" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,324 556,316 556,318 540,326" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,308 556,316 540,324 524,316" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="564,316 580,324 580,326 564,318" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,324 596,316 596,318 580,326" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,308 596,316 580,324 564,316" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="604,316 620,324 620,326 604,318" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,324 636,316 636,318 620,326" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,308 636,316 620,324 604,316" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="384,326 400,334 400,336 384,328" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,334 416,326 416,328 400,336" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="400,318 416,326 400,334 384,326" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="424,326 440,334 440,336 424,328" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,334 456,326 456,328 440,336" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,318 456,326 440,334 424,326" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="464,326 480,334 480,336 464,328" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,334 496,326 496,328 480,336" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,318 496,326 480,334 464,326" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="504,326 520,334 520,336 504,328" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,334 536,326 536,328 520,336" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,318 536,326 520,334 504,326" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="544,326 560,334 560,336 544,328" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,334 576,326 576,328 560,336" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,318 576,326 560,334 544,326" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="584,326 600,334 600,336 584,328" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,334 616,326 616,328 600,336" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,318 616,326 600,334 584,326" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="624,326 639.9999999999999,333.99999999999994 639.9999999999999,335.99999999999994 624,328" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="639.9999999999999,333.99999999999994 656,326 656,328 639.9999999999999,335.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="640,318 656,326 639.9999999999999,333.99999999999994 624,326" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="404,336 420,344 420,346 404,338" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,344 436,336 436,338 420,346" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="420,328 436,336 420,344 404,336" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="444,336 460,344 460,346 444,338" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,344 476,336 476,338 460,346" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,328 476,336 460,344 444,336" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="484,336 500,344 500,346 484,338" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,344 516,336 516,338 500,346" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,328 516,336 500,344 484,336" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="524,336 540,344 540,346 524,338" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,344 556,336 556,338 540,346" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,328 556,336 540,344 524,336" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="564,336 580,344 580,346 564,338" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,344 596,336 596,338 580,346" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,328 596,336 580,344 564,336" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="604,336 619.9999999999999,343.99999999999994 619.9999999999999,345.99999999999994 604,338" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="619.9999999999999,343.99999999999994 636,336 636,338 619.9999999999999,345.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,328 636,336 619.9999999999999,343.99999999999994 604,336" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="644,336 660,343.99999999999994 660,345.99999999999994 644,338" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,343.99999999999994 676,336 676,338 660,345.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,328 676,336 660,343.99999999999994 644,336" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="424,346 440,354 440,356 424,348" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,354 456,346 456,348 440,356" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="440,338 456,346 440,354 424,346" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="464,346 480,354 480,356 464,348" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,354 496,346 496,348 480,356" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,338 496,346 480,354 464,346" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="504,346 520,354 520,356 504,348" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,354 536,346 536,348 520,356" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,338 536,346 520,354 504,346" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="544,346 560,354 560,356 544,348" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,354 576,346 576,348 560,356" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,338 576,346 560,354 544,346" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="584,346 599.9999999999999,353.99999999999994 599.9999999999999,355.99999999999994 584,348" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="599.9999999999999,353.99999999999994 616,346 616,348 599.9999999999999,355.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,338 616,346 599.9999999999999,353.99999999999994 584,346" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="624,346 639.9999999999999,353.99999999999994 639.9999999999999,355.99999999999994 624,348" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="639.9999999999999,353.99999999999994 656,346 656,348 639.9999999999999,355.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="640,338 656,346 639.9999999999999,353.99999999999994 624,346" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="664,346 680,353.99999999999994 680,355.99999999999994 664,348" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,353.99999999999994 696,346 696,348 680,355.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,338 696,346 680,353.99999999999994 664,346" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="444,356 460,364 460,366 444,358" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,364 476,356 476,358 460,366" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="460,348 476,356 460,364 444,356" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="484,356 500,364 500,366 484,358" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,364 516,356 516,358 500,366" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,348 516,356 500,364 484,356" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="524,356 540,364 540,366 524,358" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,364 556,356 556,358 540,366" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,348 556,356 540,364 524,356" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="564,356 579.9999999999999,363.99999999999994 579.9999999999999,365.99999999999994 564,358" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="579.9999999999999,363.99999999999994 596,356 596,358 579.9999999999999,365.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,348 596,356 579.9999999999999,363.99999999999994 564,356" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="604,356 619.9999999999999,363.99999999999994 619.9999999999999,365.99999999999994 604,358" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="619.9999999999999,363.99999999999994 636,356 636,358 619.9999999999999,365.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,348 636,356 619.9999999999999,363.99999999999994 604,356" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="644,356 660,363.99999999999994 660,365.99999999999994 644,358" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,363.99999999999994 676,356 676,358 660,365.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,348 676,356 660,363.99999999999994 644,356" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="684,356 700,363.99999999999994 700,365.99999999999994 684,358" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,363.99999999999994 716,356 716,358 700,365.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,348 716,356 700,363.99999999999994 684,356" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="464,366 480,374 480,376 464,368" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,374 496,366 496,368 480,376" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="480,358 496,366 480,374 464,366" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="504,366 520,374 520,376 504,368" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,374 536,366 536,368 520,376" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,358 536,366 520,374 504,366" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="544,366 559.9999999999999,373.99999999999994 559.9999999999999,375.99999999999994 544,368" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="559.9999999999999,373.99999999999994 576,366 576,368 559.9999999999999,375.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,358 576,366 559.9999999999999,373.99999999999994 544,366" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="584,366 599.9999999999999,373.99999999999994 599.9999999999999,375.99999999999994 584,368" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="599.9999999999999,373.99999999999994 616,366 616,368 599.9999999999999,375.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,358 616,366 599.9999999999999,373.99999999999994 584,366" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="624,366 639.9999999999999,373.99999999999994 639.9999999999999,375.99999999999994 624,368" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="639.9999999999999,373.99999999999994 656,366 656,368 639.9999999999999,375.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="640,358 656,366 639.9999999999999,373.99999999999994 624,366" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="664,366 680,373.99999999999994 680,375.99999999999994 664,368" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,373.99999999999994 696,366 696,368 680,375.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,358 696,366 680,373.99999999999994 664,366" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="704,366 720,373.99999999999994 720,375.99999999999994 704,368" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,373.99999999999994 736,366 736,368 720,375.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,358 736,366 720,373.99999999999994 704,366" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="484,376 500,384 500,386 484,378" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,384 516,376 516,378 500,386" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="500,368 516,376 500,384 484,376" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="524,376 539.9999999999999,383.99999999999994 539.9999999999999,385.99999999999994 524,378" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="539.9999999999999,383.99999999999994 556,376 556,378 539.9999999999999,385.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,368 556,376 539.9999999999999,383.99999999999994 524,376" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="564,376 579.9999999999999,383.99999999999994 579.9999999999999,385.99999999999994 564,378" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="579.9999999999999,383.99999999999994 596,376 596,378 579.9999999999999,385.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,368 596,376 579.9999999999999,383.99999999999994 564,376" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="604,376 619.9999999999999,383.99999999999994 619.9999999999999,385.99999999999994 604,378" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="619.9999999999999,383.99999999999994 636,376 636,378 619.9999999999999,385.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,368 636,376 619.9999999999999,383.99999999999994 604,376" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="644,376 660,383.99999999999994 660,385.99999999999994 644,378" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,383.99999999999994 676,376 676,378 660,385.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,368 676,376 660,383.99999999999994 644,376" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="684,376 700,383.99999999999994 700,385.99999999999994 684,378" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,383.99999999999994 716,376 716,378 700,385.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,368 716,376 700,383.99999999999994 684,376" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="724,376 740,383.99999999999994 740,385.99999999999994 724,378" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,383.99999999999994 756,376 756,378 740,385.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,368 756,376 740,383.99999999999994 724,376" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="504,386 519.9999999999999,393.99999999999994 519.9999999999999,395.99999999999994 504,388" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="519.9999999999999,393.99999999999994 536,386 536,388 519.9999999999999,395.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="520,378 536,386 519.9999999999999,393.99999999999994 504,386" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="544,386 559.9999999999999,393.99999999999994 559.9999999999999,395.99999999999994 544,388" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="559.9999999999999,393.99999999999994 576,386 576,388 559.9999999999999,395.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,378 576,386 559.9999999999999,393.99999999999994 544,386" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="584,386 599.9999999999999,393.99999999999994 599.9999999999999,395.99999999999994 584,388" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="599.9999999999999,393.99999999999994 616,386 616,388 599.9999999999999,395.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,378 616,386 599.9999999999999,393.99999999999994 584,386" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="624,386 639.9999999999999,393.99999999999994 639.9999999999999,395.99999999999994 624,388" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="639.9999999999999,393.99999999999994 656,386 656,388 639.9999999999999,395.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="640,378 656,386 639.9999999999999,393.99999999999994 624,386" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="664,386 680,393.99999999999994 680,395.99999999999994 664,388" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,393.99999999999994 696,386 696,388 680,395.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,378 696,386 680,393.99999999999994 664,386" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="704,386 720,393.99999999999994 720,395.99999999999994 704,388" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,393.99999999999994 736,386 736,388 720,395.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,378 736,386 720,393.99999999999994 704,386" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="744,386 760,393.99999999999994 760,395.99999999999994 744,388" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,393.99999999999994 776,386 776,388 760,395.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,378 776,386 760,393.99999999999994 744,386" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="524,396 539.9999999999999,403.99999999999994 539.9999999999999,405.99999999999994 524,398" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="539.9999999999999,403.99999999999994 556,396 556,398 539.9999999999999,405.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="540,388 556,396 539.9999999999999,403.99999999999994 524,396" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="564,396 579.9999999999999,403.99999999999994 579.9999999999999,405.99999999999994 564,398" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="579.9999999999999,403.99999999999994 596,396 596,398 579.9999999999999,405.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,388 596,396 579.9999999999999,403.99999999999994 564,396" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="604,396 619.9999999999999,403.99999999999994 619.9999999999999,405.99999999999994 604,398" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="619.9999999999999,403.99999999999994 636,396 636,398 619.9999999999999,405.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,388 636,396 619.9999999999999,403.99999999999994 604,396" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="644,396 660,403.99999999999994 660,405.99999999999994 644,398" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,403.99999999999994 676,396 676,398 660,405.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,388 676,396 660,403.99999999999994 644,396" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="684,396 700,403.99999999999994 700,405.99999999999994 684,398" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,403.99999999999994 716,396 716,398 700,405.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,388 716,396 700,403.99999999999994 684,396" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="724,396 740,403.99999999999994 740,405.99999999999994 724,398" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,403.99999999999994 756,396 756,398 740,405.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,388 756,396 740,403.99999999999994 724,396" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="764,396 780,403.99999999999994 780,405.99999999999994 764,398" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,403.99999999999994 796,396 796,398 780,405.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,388 796,396 780,403.99999999999994 764,396" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="544,406 559.9999999999999,413.99999999999994 559.9999999999999,415.99999999999994 544,408" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="559.9999999999999,413.99999999999994 576,406 576,408 559.9999999999999,415.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="560,398 576,406 559.9999999999999,413.99999999999994 544,406" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="584,406 599.9999999999999,413.99999999999994 599.9999999999999,415.99999999999994 584,408" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="599.9999999999999,413.99999999999994 616,406 616,408 599.9999999999999,415.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,398 616,406 599.9999999999999,413.99999999999994 584,406" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="624,406 639.9999999999999,413.99999999999994 639.9999999999999,415.99999999999994 624,408" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="639.9999999999999,413.99999999999994 656,406 656,408 639.9999999999999,415.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="640,398 656,406 639.9999999999999,413.99999999999994 624,406" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="664,406 680,413.99999999999994 680,415.99999999999994 664,408" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,413.99999999999994 696,406 696,408 680,415.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,398 696,406 680,413.99999999999994 664,406" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="704,406 720,413.99999999999994 720,415.99999999999994 704,408" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,413.99999999999994 736,406 736,408 720,415.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,398 736,406 720,413.99999999999994 704,406" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="744,406 760,413.99999999999994 760,415.99999999999994 744,408" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,413.99999999999994 776,406 776,408 760,415.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,398 776,406 760,413.99999999999994 744,406" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="784,406 800,413.99999999999994 800,415.99999999999994 784,408" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,413.99999999999994 816,406 816,408 800,415.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,398 816,406 800,413.99999999999994 784,406" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="564,416 579.9999999999999,423.99999999999994 579.9999999999999,425.99999999999994 564,418" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="579.9999999999999,423.99999999999994 596,416 596,418 579.9999999999999,425.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="580,408 596,416 579.9999999999999,423.99999999999994 564,416" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="604,416 619.9999999999999,423.99999999999994 619.9999999999999,425.99999999999994 604,418" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="619.9999999999999,423.99999999999994 636,416 636,418 619.9999999999999,425.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,408 636,416 619.9999999999999,423.99999999999994 604,416" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="644,416 660,423.99999999999994 660,425.99999999999994 644,418" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,423.99999999999994 676,416 676,418 660,425.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,408 676,416 660,423.99999999999994 644,416" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="684,416 700,423.99999999999994 700,425.99999999999994 684,418" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,423.99999999999994 716,416 716,418 700,425.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,408 716,416 700,423.99999999999994 684,416" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="724,416 740,423.99999999999994 740,425.99999999999994 724,418" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,423.99999999999994 756,416 756,418 740,425.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,408 756,416 740,423.99999999999994 724,416" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="764,416 780,423.99999999999994 780,425.99999999999994 764,418" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,423.99999999999994 796,416 796,418 780,425.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,408 796,416 780,423.99999999999994 764,416" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="804,416 820,423.99999999999994 820,425.99999999999994 804,418" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,423.99999999999994 836,416 836,418 820,425.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,408 836,416 820,423.99999999999994 804,416" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="584,426 599.9999999999999,433.99999999999994 599.9999999999999,435.99999999999994 584,428" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="599.9999999999999,433.99999999999994 616,426 616,428 599.9999999999999,435.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="600,418 616,426 599.9999999999999,433.99999999999994 584,426" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="624,426 639.9999999999999,433.99999999999994 639.9999999999999,435.99999999999994 624,428" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="639.9999999999999,433.99999999999994 656,426 656,428 639.9999999999999,435.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="640,418 656,426 639.9999999999999,433.99999999999994 624,426" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="664,426 680,433.99999999999994 680,435.99999999999994 664,428" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,433.99999999999994 696,426 696,428 680,435.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,418 696,426 680,433.99999999999994 664,426" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="704,426 720,433.99999999999994 720,435.99999999999994 704,428" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,433.99999999999994 736,426 736,428 720,435.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,418 736,426 720,433.99999999999994 704,426" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="744,426 760,433.99999999999994 760,435.99999999999994 744,428" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,433.99999999999994 776,426 776,428 760,435.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,418 776,426 760,433.99999999999994 744,426" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="784,426 800,433.99999999999994 800,435.99999999999994 784,428" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,433.99999999999994 816,426 816,428 800,435.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,418 816,426 800,433.99999999999994 784,426" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="824,426 840,433.99999999999994 840,435.99999999999994 824,428" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,433.99999999999994 856,426 856,428 840,435.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,418 856,426 840,433.99999999999994 824,426" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="604,436 619.9999999999999,443.99999999999994 619.9999999999999,445.99999999999994 604,438" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="619.9999999999999,443.99999999999994 636,436 636,438 619.9999999999999,445.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="620,428 636,436 619.9999999999999,443.99999999999994 604,436" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="644,436 660,443.99999999999994 660,445.99999999999994 644,438" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,443.99999999999994 676,436 676,438 660,445.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,428 676,436 660,443.99999999999994 644,436" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="684,436 700,443.99999999999994 700,445.99999999999994 684,438" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,443.99999999999994 716,436 716,438 700,445.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,428 716,436 700,443.99999999999994 684,436" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="724,436 740,443.99999999999994 740,445.99999999999994 724,438" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,443.99999999999994 756,436 756,438 740,445.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,428 756,436 740,443.99999999999994 724,436" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="764,436 780,443.99999999999994 780,445.99999999999994 764,438" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,443.99999999999994 796,436 796,438 780,445.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,428 796,436 780,443.99999999999994 764,436" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="804,436 820,443.99999999999994 820,445.99999999999994 804,438" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,443.99999999999994 836,436 836,438 820,445.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,428 836,436 820,443.99999999999994 804,436" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="844,436 860,443.99999999999994 860,445.99999999999994 844,438" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,443.99999999999994 876,436 876,438 860,445.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,428 876,436 860,443.99999999999994 844,436" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="624,446 639.9999999999999,453.99999999999994 639.9999999999999,455.99999999999994 624,448" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="639.9999999999999,453.99999999999994 656,446 656,448 639.9999999999999,455.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="640,438 656,446 639.9999999999999,453.99999999999994 624,446" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="664,446 680,453.99999999999994 680,455.99999999999994 664,448" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,453.99999999999994 696,446 696,448 680,455.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,438 696,446 680,453.99999999999994 664,446" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="704,446 720,453.99999999999994 720,455.99999999999994 704,448" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,453.99999999999994 736,446 736,448 720,455.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,438 736,446 720,453.99999999999994 704,446" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="744,446 760,453.99999999999994 760,455.99999999999994 744,448" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,453.99999999999994 776,446 776,448 760,455.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,438 776,446 760,453.99999999999994 744,446" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="784,446 800,453.99999999999994 800,455.99999999999994 784,448" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,453.99999999999994 816,446 816,448 800,455.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,438 816,446 800,453.99999999999994 784,446" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="824,446 840,453.99999999999994 840,455.99999999999994 824,448" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,453.99999999999994 856,446 856,448 840,455.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,438 856,446 840,453.99999999999994 824,446" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="864,446 880,453.99999999999994 880,455.99999999999994 864,448" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,453.99999999999994 896,446 896,448 880,455.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,438 896,446 880,453.99999999999994 864,446" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="644,456 660,463.99999999999994 660,465.99999999999994 644,458" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,463.99999999999994 676,456 676,458 660,465.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="660,448 676,456 660,463.99999999999994 644,456" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="684,456 700,463.99999999999994 700,465.99999999999994 684,458" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,463.99999999999994 716,456 716,458 700,465.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,448 716,456 700,463.99999999999994 684,456" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="724,456 740,463.99999999999994 740,465.99999999999994 724,458" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,463.99999999999994 756,456 756,458 740,465.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,448 756,456 740,463.99999999999994 724,456" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="764,456 780,463.99999999999994 780,465.99999999999994 764,458" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,463.99999999999994 796,456 796,458 780,465.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,448 796,456 780,463.99999999999994 764,456" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="804,456 820,463.99999999999994 820,465.99999999999994 804,458" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,463.99999999999994 836,456 836,458 820,465.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,448 836,456 820,463.99999999999994 804,456" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="844,456 860,463.99999999999994 860,465.99999999999994 844,458" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,463.99999999999994 876,456 876,458 860,465.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,448 876,456 860,463.99999999999994 844,456" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="884,456 900,463.99999999999994 900,465.99999999999994 884,458" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,463.99999999999994 916,456 916,458 900,465.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,448 916,456 900,463.99999999999994 884,456" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="664,466 680,473.99999999999994 680,475.99999999999994 664,468" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,473.99999999999994 696,466 696,468 680,475.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="680,458 696,466 680,473.99999999999994 664,466" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="704,466 720,473.99999999999994 720,475.99999999999994 704,468" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,473.99999999999994 736,466 736,468 720,475.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,458 736,466 720,473.99999999999994 704,466" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="744,466 760,473.99999999999994 760,475.99999999999994 744,468" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,473.99999999999994 776,466 776,468 760,475.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,458 776,466 760,473.99999999999994 744,466" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="784,466 800,473.99999999999994 800,475.99999999999994 784,468" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,473.99999999999994 816,466 816,468 800,475.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,458 816,466 800,473.99999999999994 784,466" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="824,466 840,473.99999999999994 840,475.99999999999994 824,468" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,473.99999999999994 856,466 856,468 840,475.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,458 856,466 840,473.99999999999994 824,466" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="864,466 880,473.99999999999994 880,475.99999999999994 864,468" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,473.99999999999994 896,466 896,468 880,475.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,458 896,466 880,473.99999999999994 864,466" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,466 920,473.99999999999994 920,475.99999999999994 904,468" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,473.99999999999994 936,466 936,468 920,475.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,458 936,466 920,473.99999999999994 904,466" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="684,476 700,483.99999999999994 700,485.99999999999994 684,478" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,483.99999999999994 716,476 716,478 700,485.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="700,468 716,476 700,483.99999999999994 684,476" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="724,476 740,483.99999999999994 740,485.99999999999994 724,478" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,483.99999999999994 756,476 756,478 740,485.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,468 756,476 740,483.99999999999994 724,476" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="764,476 780,483.99999999999994 780,485.99999999999994 764,478" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,483.99999999999994 796,476 796,478 780,485.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,468 796,476 780,483.99999999999994 764,476" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="804,476 820,483.99999999999994 820,485.99999999999994 804,478" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,483.99999999999994 836,476 836,478 820,485.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,468 836,476 820,483.99999999999994 804,476" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="844,476 860,483.99999999999994 860,485.99999999999994 844,478" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,483.99999999999994 876,476 876,478 860,485.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,468 876,476 860,483.99999999999994 844,476" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="884,476 900,483.99999999999994 900,485.99999999999994 884,478" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,483.99999999999994 916,476 916,478 900,485.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,468 916,476 900,483.99999999999994 884,476" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="924,476 940,483.99999999999994 940,485.99999999999994 924,478" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,483.99999999999994 956,476 956,478 940,485.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,468 956,476 940,483.99999999999994 924,476" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="704,486 720,493.99999999999994 720,495.99999999999994 704,488" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,493.99999999999994 736,486 736,488 720,495.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="720,478 736,486 720,493.99999999999994 704,486" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="744,486 760,493.99999999999994 760,495.99999999999994 744,488" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,493.99999999999994 776,486 776,488 760,495.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,478 776,486 760,493.99999999999994 744,486" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="784,486 800,493.99999999999994 800,495.99999999999994 784,488" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,493.99999999999994 816,486 816,488 800,495.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,478 816,486 800,493.99999999999994 784,486" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="824,486 840,493.99999999999994 840,495.99999999999994 824,488" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,493.99999999999994 856,486 856,488 840,495.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,478 856,486 840,493.99999999999994 824,486" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="864,486 880,493.99999999999994 880,495.99999999999994 864,488" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,493.99999999999994 896,486 896,488 880,495.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,478 896,486 880,493.99999999999994 864,486" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,486 920,493.99999999999994 920,495.99999999999994 904,488" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,493.99999999999994 936,486 936,488 920,495.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,478 936,486 920,493.99999999999994 904,486" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="944,486 960,493.99999999999994 960,495.99999999999994 944,488" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,493.99999999999994 976,486 976,488 960,495.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,478 976,486 960,493.99999999999994 944,486" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="724,496 740,503.99999999999994 740,505.99999999999994 724,498" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,503.99999999999994 756,496 756,498 740,505.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="740,488 756,496 740,503.99999999999994 724,496" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="764,496 780,503.99999999999994 780,505.99999999999994 764,498" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,503.99999999999994 796,496 796,498 780,505.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,488 796,496 780,503.99999999999994 764,496" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="804,496 820,503.99999999999994 820,505.99999999999994 804,498" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,503.99999999999994 836,496 836,498 820,505.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,488 836,496 820,503.99999999999994 804,496" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="844,496 860,503.99999999999994 860,505.99999999999994 844,498" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,503.99999999999994 876,496 876,498 860,505.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,488 876,496 860,503.99999999999994 844,496" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="884,496 900,503.99999999999994 900,505.99999999999994 884,498" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,503.99999999999994 916,496 916,498 900,505.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,488 916,496 900,503.99999999999994 884,496" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="924,496 940,503.99999999999994 940,505.99999999999994 924,498" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,503.99999999999994 956,496 956,498 940,505.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,488 956,496 940,503.99999999999994 924,496" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="964,496 980,503.99999999999994 980,505.99999999999994 964,498" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,503.99999999999994 996,496 996,498 980,505.99999999999994" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,488 996,496 980,503.99999999999994 964,496" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="744,506 760,514 760,516 744,508" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,514 776,506 776,508 760,516" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="760,498 776,506 760,514 744,506" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="784,506 800,514 800,516 784,508" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,514 816,506 816,508 800,516" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,498 816,506 800,514 784,506" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="824,506 840,514 840,516 824,508" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,514 856,506 856,508 840,516" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,498 856,506 840,514 824,506" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="864,506 880,514 880,516 864,508" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,514 896,506 896,508 880,516" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,498 896,506 880,514 864,506" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,506 920,514 920,516 904,508" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,514 936,506 936,508 920,516" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,498 936,506 920,514 904,506" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="944,506 960,514 960,516 944,508" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,514 976,506 976,508 960,516" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,498 976,506 960,514 944,506" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="984,506 1000,514 1000,516 984,508" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1000,514 1016,506 1016,508 1000,516" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1000,498 1016,506 1000,514 984,506" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="764,516 780,524 780,526 764,518" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,524 796,516 796,518 780,526" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="780,508 796,516 780,524 764,516" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="804,516 820,524 820,526 804,518" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,524 836,516 836,518 820,526" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,508 836,516 820,524 804,516" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="844,516 860,524 860,526 844,518" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,524 876,516 876,518 860,526" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,508 876,516 860,524 844,516" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="884,516 900,524 900,526 884,518" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,524 916,516 916,518 900,526" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,508 916,516 900,524 884,516" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="924,516 940,524 940,526 924,518" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,524 956,516 956,518 940,526" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,508 956,516 940,524 924,516" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="964,516 980,524 980,526 964,518" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,524 996,516 996,518 980,526" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,508 996,516 980,524 964,516" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="1004,516 1020,524 1020,526 1004,518" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1020,524 1036,516 1036,518 1020,526" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1020,508 1036,516 1020,524 1004,516" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="784,526 800,534 800,536 784,528" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,534 816,526 816,528 800,536" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="800,518 816,526 800,534 784,526" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="824,526 840,534 840,536 824,528" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,534 856,526 856,528 840,536" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,518 856,526 840,534 824,526" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="864,526 880,534 880,536 864,528" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,534 896,526 896,528 880,536" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,518 896,526 880,534 864,526" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,526 920,534 920,536 904,528" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,534 936,526 936,528 920,536" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,518 936,526 920,534 904,526" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="944,526 960,534 960,536 944,528" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,534 976,526 976,528 960,536" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,518 976,526 960,534 944,526" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="984,526 1000,534 1000,536 984,528" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1000,534 1016,526 1016,528 1000,536" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1000,518 1016,526 1000,534 984,526" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="1024,526 1040,534 1040,536 1024,528" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1040,534 1056,526 1056,528 1040,536" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1040,518 1056,526 1040,534 1024,526" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="804,536 820,544 820,546 804,538" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,544 836,536 836,538 820,546" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="820,528 836,536 820,544 804,536" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="844,536 860,544 860,546 844,538" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,544 876,536 876,538 860,546" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,528 876,536 860,544 844,536" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="884,536 900,544 900,546 884,538" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,544 916,536 916,538 900,546" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,528 916,536 900,544 884,536" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="924,536 940,544 940,546 924,538" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,544 956,536 956,538 940,546" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,528 956,536 940,544 924,536" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="964,536 980,544 980,546 964,538" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,544 996,536 996,538 980,546" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,528 996,536 980,544 964,536" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="1004,536 1020,544 1020,546 1004,538" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1020,544 1036,536 1036,538 1020,546" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1020,528 1036,536 1020,544 1004,536" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="824,546 840,554 840,556 824,548" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,554 856,546 856,548 840,556" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="840,538 856,546 840,554 824,546" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="864,546 880,554 880,556 864,548" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,554 896,546 896,548 880,556" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,538 896,546 880,554 864,546" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,546 920,554 920,556 904,548" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,554 936,546 936,548 920,556" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,538 936,546 920,554 904,546" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="944,546 960,554 960,556 944,548" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,554 976,546 976,548 960,556" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="960,538 976,546 960,554 944,546" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="984,546 1000,554 1000,556 984,548" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1000,554 1016,546 1016,548 1000,556" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="1000,538 1016,546 1000,554 984,546" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="844,556 860,564 860,566 844,558" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,564 876,556 876,558 860,566" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="860,548 876,556 860,564 844,556" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="884,556 900,564 900,566 884,558" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,564 916,556 916,558 900,566" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,548 916,556 900,564 884,556" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="924,556 940,564 940,566 924,558" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,564 956,556 956,558 940,566" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,548 956,556 940,564 924,556" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="964,552.5 980,560.5 980,566 964,558" fill="#1c2130" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,560.5 996,552.5 996,558 980,566" fill="#121521" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,544.5 996,552.5 980,560.5 964,552.5" fill="#272d42" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="864,566 880,574 880,576 864,568" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,574 896,566 896,568 880,576" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="880,558 896,566 880,574 864,566" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,566 920,574 920,576 904,568" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,574 936,566 936,568 920,576" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,558 936,566 920,574 904,566" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="884,576 900,584 900,586 884,578" fill="#151826" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,584 916,576 916,578 900,586" fill="#0d0f1a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="900,568 916,576 900,584 884,576" fill="#1e2233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+        
+        
+    </g>
+    
+    
+</svg>
