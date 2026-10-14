@@ -6,27 +6,86 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
-permissions:
-  contents: write
+# No permissions by default. Each job grants only what it needs.
+permissions: {}
 
 jobs:
-  build:
+  generate:
+    name: Generate city (read-only)
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    permissions:
+      contents: read
 
-      - name: Generate neon city
-        uses: Haruko386-UnOfficIal/github-city@main
+    steps:
+      - name: Generate city from pinned source
+        uses: Zain1024/github-city@6ecbf63a7a7c00266983444e849475bf8904bb56
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: cityNight
 
-      - name: Save city image
+      - name: Validate generated SVG
+        shell: bash
         run: |
+          test -s city.svg
+          grep -q '<svg' city.svg
+          if grep -Eiq '<script|<foreignObject|javascript:|on[a-z]+[[:space:]]*=' city.svg; then
+            echo "Refusing to publish SVG containing active content."
+            exit 1
+          fi
+
+      - name: Upload city artifact
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: neon-city
+          path: city.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    name: Publish city (write access)
+    needs: generate
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download generated city
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: neon-city
+          path: generated
+
+      - name: Validate downloaded SVG
+        shell: bash
+        run: |
+          test -s generated/city.svg
+          grep -q '<svg' generated/city.svg
+          if grep -Eiq '<script|<foreignObject|javascript:|on[a-z]+[[:space:]]*=' generated/city.svg; then
+            echo "Refusing to publish SVG containing active content."
+            exit 1
+          fi
+
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: true
+
+      - name: Commit only city.svg
+        shell: bash
+        run: |
+          cp generated/city.svg city.svg
+
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f city.svg
-          git commit -m "Update neon city" || exit 0
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -- city.svg
+
+          if git diff --cached --quiet; then
+            echo "City is unchanged; nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "Update neon city"
           git push
